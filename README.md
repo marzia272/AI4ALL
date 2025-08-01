@@ -36,4 +36,4 @@ Emotions play a vital role in human interaction, and understanding them through 
 ## Authors <!--- do not change this line -->
 
 - *Marzia Tahsin ([marziat1@umbc.edu](mailto:marziat1@umbc.edu))*
-- *Veda Manchana ([veda.manchana@utdallas.edu](mailto:veda.manchana@utdallas.edu)*
+- *Veda Manchana ([veda.manchana@utdallas.edu](mailto:veda.manchana@utdallas.edu))*
