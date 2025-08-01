@@ -1,4 +1,4 @@
-# EEG Emotion Classification using Machine Learning
+# EEG Emotion Recognition: Positive vs Negative Detection
 
 Improved EEG-based emotion classification accuracy to 63% for binary classification (positive vs. negative emotion) using Random Forest, applying data preprocessing, feature selection, and model tuning within the AI4ALL Ignite program.
 
