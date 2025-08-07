@@ -1,5 +1,6 @@
+[Link to Project Github repository](https://marzia272.github.io/AI4ALL/)
 # EEG Emotion Recognition: Positive vs Negative Detection
-# [Link to Project Github repository](https://marzia272.github.io/AI4ALL/)
+
 Improved EEG-based emotion classification accuracy to 63% for binary classification (positive vs. negative emotion) using Random Forest, applying data preprocessing, feature selection, and model tuning within the AI4ALL Ignite program.
 
 ## Problem Statement <!--- do not change this line -->
